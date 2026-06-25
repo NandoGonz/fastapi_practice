@@ -45,7 +45,7 @@ Este proyecto implementa buenas prácticas de desarrollo backend como validació
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <tu-repositorio>
+git clone https://github.com/NandoGonz/fastapi_practice.git
 cd ejercicioAPI_1
 ```
 
