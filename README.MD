@@ -215,16 +215,6 @@ Ver [requirements.txt](requirements.txt) para la lista completa de dependencias 
 
 ---
 
-## 📄 Licencia
 
-Este proyecto está bajo licencia MIT.
-
----
-
-## 👤 Autor
-
-Desarrollado como ejercicio de API RESTful con FastAPI.
-
----
 
  
